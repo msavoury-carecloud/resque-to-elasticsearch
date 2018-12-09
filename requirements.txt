@@ -2,4 +2,4 @@ bs4
 pyquery
 datetime
 elasticsearch
-dateutil.parser
+python-dateutil
